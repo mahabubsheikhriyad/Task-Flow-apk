@@ -1,0 +1,6 @@
+{
+  "name": "FlowTask Mobile",
+  "description": "A local-first, premium glassmorphic task manager and sprint board with real-time alarms and canvas metrics analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
